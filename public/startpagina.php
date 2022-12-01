@@ -1,21 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Startpagina</title>
-</head>
-<body>
-<header>
-  Welkom
-</header>
-
+<?php
+include '../private/shared/header.php';
+?>
 <h1>
   Standaard tekst
 </h1>
-
-<footer>
-
-</footer>
-  Privacy verklaring
-</body>
-</html>
+<?php
+include '../private/shared/footer.php';
+?>
