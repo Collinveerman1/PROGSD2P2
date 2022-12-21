@@ -29,15 +29,11 @@ $root = substr($_SERVER['SCRIPT_NAME'],
 define("ROOT_URL", $root);
 echo $root;
 
-
-
-
 function url_path($path) {
     if($path[0] != '/') {
         $path = "/" . $path;
     }
     return ROOT_URL . $path;
 }
-
 
 ?>

@@ -1,3 +1,7 @@
+# Week 2 opderacht 3
+
+de ene laat zien dat je het via google hebt opgezocht en de ander laat zien dat je het via de link deed.
+
 # Week 3 opdracht 1
 
 $_SERVER['REQUEST_METHOD'] is een superglobal variabele in PHP die het HTTP-verzoekmethode van de huidige pagina opslaat, zoals "GET" of "POST".

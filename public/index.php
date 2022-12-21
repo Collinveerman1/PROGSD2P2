@@ -7,4 +7,4 @@ include SHARED_PATH . "/header.php";
   Standaard tekst
 </h1>
 
-<?php include SHARED_PATH . "/footer.php"; ?>s
+<?php include SHARED_PATH . "/footer.php"; ?>
